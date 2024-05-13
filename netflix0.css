@@ -1,0 +1,61 @@
+body{
+    overflow-x: hidden;
+}
+form{
+    height:200px;
+    width:200px;
+    display:flex;
+    flex-direction: column;
+    border-radius: 30px;
+    border-left: 1px solid rgba(255,255,255,.3);
+    border-top: 1px solid rgba(255,255,255,.3) ;
+}
+input[type="email"]{
+    height: 40px;
+    width:400px;
+}
+input[type="button"]{
+    height: 45px;
+    width:150px;
+    background-color: crimson;
+    margin-left: 410px;
+    margin-top: -45px;
+    color: white;
+}
+.yyy{
+    margin-top: -900px;
+    color:white;
+    margin-left: 400px;
+    opacity: 500;
+    justify-content: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.uuu{
+    font-size: 60px;
+}
+.bbb{
+    font-size: 60px;
+    margin-top: -60px;
+    margin-left: 60px;
+}
+.ggg{
+    margin-top: -60px;
+    margin-left:120px;
+    font-size: 20px;
+}
+.aaa{
+    font-size: 12px;
+    opacity:500;
+    margin-left: 50px;
+    margin-top: -10px;
+}
+img{
+    opacity:1;
+}
+.ee{
+    margin-top: -680px;
+    margin-left: 680px;
+    size: 50px;
+    border-radius: 50px;
+}
+
